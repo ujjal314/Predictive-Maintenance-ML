@@ -1,0 +1,8 @@
+Feature,Mean_SHAP_Value
+num__Torque [Nm],2.3260007
+num__Tool wear [min],1.9982021
+num__Rotational speed [rpm],0.59021175
+num__Temperature Difference [K],0.575549
+num__Process temperature [K],0.38040957
+num__Air temperature [K],0.33103892
+cat__Type,0.18532376

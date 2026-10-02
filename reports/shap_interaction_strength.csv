@@ -1,0 +1,22 @@
+Feature 1,Feature 2,Interaction Strength
+Rotational speed [rpm],Torque [Nm],0.35889456
+Rotational speed [rpm],Temperature Difference [K],0.31174254
+Torque [Nm],Tool wear [min],0.3080592
+Tool wear [min],Temperature Difference [K],0.14946853
+Rotational speed [rpm],Tool wear [min],0.13415873
+Torque [Nm],Temperature Difference [K],0.13382554
+Process temperature [K],Torque [Nm],0.12626046
+Process temperature [K],Tool wear [min],0.109944046
+Temperature Difference [K],Type,0.10893196
+Tool wear [min],Type,0.10098674
+Air temperature [K],Torque [Nm],0.08658835
+Air temperature [K],Rotational speed [rpm],0.07937932
+Torque [Nm],Type,0.07737457
+Air temperature [K],Temperature Difference [K],0.0742641
+Air temperature [K],Tool wear [min],0.07306774
+Process temperature [K],Rotational speed [rpm],0.06690709
+Rotational speed [rpm],Type,0.0629334
+Air temperature [K],Process temperature [K],0.061117765
+Process temperature [K],Temperature Difference [K],0.048077166
+Process temperature [K],Type,0.022929884
+Air temperature [K],Type,0.022441482

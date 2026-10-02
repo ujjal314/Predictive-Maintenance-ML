@@ -1,0 +1,71 @@
+# ==========================================================
+# Predictive Maintenance ML — .gitignore
+# ==========================================================
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---- Virtual Environments ----
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# ---- Environment / Secrets ----
+.env
+.env.*
+*.pem
+secrets.toml
+.streamlit/secrets.toml
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.swp
+
+# ---- Data (large / regenerable — keep out of git history) ----
+# The raw dataset and any large processed files should not be committed to
+# keep the repository lightweight and to respect dataset licensing. A
+# README in data/raw/ explains where to download the source file from.
+data/raw/*.csv
+data/processed/*.csv
+!data/raw/README.md
+!data/processed/README.md
+
+# ---- Models (large binary artifacts) ----
+# Trained pipelines can be multiple MB and change every time the model is
+# retrained. Track them with Git LFS or a model registry in a real
+# production setting rather than committing raw .pkl files to git history.
+models/*.pkl
+models/*.joblib
+!models/.gitkeep
+
+# ---- Logs / caches ----
+*.log
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# ---- Reports (generated artifacts, not source) ----
+# Keep the reports/ folder in git (via .gitkeep) but not large generated PDFs.
+reports/*.pdf
+!reports/.gitkeep

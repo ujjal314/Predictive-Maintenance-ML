@@ -1,0 +1,6 @@
+Machine Index,Primary Failure Driver,Maintenance Recommendation
+5222,Tool wear [min],Inspect or replace cutting tool due to excessive wear.
+7911,Tool wear [min],Inspect or replace cutting tool due to excessive wear.
+2504,Torque [Nm],"Check spindle load, bearings, and mechanical resistance."
+2536,Temperature Difference [K],Check cooling system and lubrication.
+3367,Temperature Difference [K],Check cooling system and lubrication.

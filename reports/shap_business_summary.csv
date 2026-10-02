@@ -1,0 +1,8 @@
+Feature,Mean_SHAP_Value,Business Insight,Maintenance Priority
+num__Torque [Nm],2.3260007,Monitor overload conditions and spindle resistance.,Very High
+num__Tool wear [min],1.9982021,Replace worn tools before reaching critical wear.,Very High
+num__Rotational speed [rpm],0.59021175,Monitor abnormal RPM operating regimes.,High
+num__Temperature Difference [K],0.575549,Inspect thermal imbalance and cooling system.,High
+num__Process temperature [K],0.38040957,Check process heating conditions.,Medium
+num__Air temperature [K],0.33103892,Monitor ambient operating environment.,Medium
+cat__Type,0.18532376,Machine type has comparatively low influence.,Low

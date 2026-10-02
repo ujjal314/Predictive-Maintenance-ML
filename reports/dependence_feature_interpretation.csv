@@ -1,0 +1,6 @@
+Feature,Engineering Interpretation
+num__Tool_wear_min,Higher tool wear generally increases machine failure probability.
+num__Torque_Nm,Higher torque creates larger positive SHAP values and increases overload risk.
+num__Rotational_speed_rpm,Rotational speed has a non-linear influence depending on operating regime.
+num__Temperature_Difference_K,Large temperature difference indicates thermal stress in the machine.
+num__Process_temperature_K,Process temperature contributes under abnormal operating conditions.

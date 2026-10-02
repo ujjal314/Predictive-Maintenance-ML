@@ -1,0 +1,6 @@
+Machine Index,Failure Probability,Top Positive Drivers,Top Negative Drivers
+5222,0.9995,"Tool wear [min], Torque [Nm], Rotational speed [rpm]","Air temperature [K], Temperature Difference [K]"
+7911,0.9992,"Tool wear [min], Torque [Nm], Type","Temperature Difference [K], Air temperature [K]"
+2504,0.9983,"Torque [Nm], Tool wear [min], Rotational speed [rpm]","Air temperature [K], Process temperature [K]"
+2536,0.9972,"Temperature Difference [K], Rotational speed [rpm], Air temperature [K]","Type, Tool wear [min]"
+3367,0.9965,"Temperature Difference [K], Torque [Nm], Rotational speed [rpm]","Process temperature [K], Air temperature [K]"

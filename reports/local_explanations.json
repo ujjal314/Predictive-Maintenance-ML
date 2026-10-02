@@ -1,0 +1,67 @@
+[
+    {
+        "machine_index": 5222,
+        "failure_probability": 0.9995157718658447,
+        "top_positive_features": [
+            "Tool wear [min]",
+            "Torque [Nm]",
+            "Rotational speed [rpm]"
+        ],
+        "top_negative_features": [
+            "Air temperature [K]",
+            "Temperature Difference [K]"
+        ]
+    },
+    {
+        "machine_index": 7911,
+        "failure_probability": 0.9991636276245117,
+        "top_positive_features": [
+            "Tool wear [min]",
+            "Torque [Nm]",
+            "Type"
+        ],
+        "top_negative_features": [
+            "Temperature Difference [K]",
+            "Air temperature [K]"
+        ]
+    },
+    {
+        "machine_index": 2504,
+        "failure_probability": 0.9983474016189575,
+        "top_positive_features": [
+            "Torque [Nm]",
+            "Tool wear [min]",
+            "Rotational speed [rpm]"
+        ],
+        "top_negative_features": [
+            "Air temperature [K]",
+            "Process temperature [K]"
+        ]
+    },
+    {
+        "machine_index": 2536,
+        "failure_probability": 0.9972104430198669,
+        "top_positive_features": [
+            "Temperature Difference [K]",
+            "Rotational speed [rpm]",
+            "Air temperature [K]"
+        ],
+        "top_negative_features": [
+            "Type",
+            "Tool wear [min]"
+        ]
+    },
+    {
+        "machine_index": 3367,
+        "failure_probability": 0.9965015649795532,
+        "top_positive_features": [
+            "Temperature Difference [K]",
+            "Torque [Nm]",
+            "Rotational speed [rpm]"
+        ],
+        "top_negative_features": [
+            "Process temperature [K]",
+            "Air temperature [K]"
+        ]
+    }
+]
