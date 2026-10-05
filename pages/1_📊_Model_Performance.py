@@ -51,9 +51,9 @@ st.divider()
 # ============================================================
 
 images = [
-    ("ROC Curve", "ROC_Curve_XGB.png"),
-    ("Precision–Recall Curve", "Precision_Recall_Curve.png"),
-    ("Confusion Matrix", "XGB_Matrix.png"),
+    ("ROC Curve", "ROC_Curve_XGBoost.png"),
+    ("Precision–Recall Curve", "Precision_Recall_Curve_XGBoost.png"),
+    ("Confusion Matrix", "XGBoost_Confusion_Matrix.png"),
     ("Threshold Optimization", "Threshold_Optimization.png"),
 ]
 
